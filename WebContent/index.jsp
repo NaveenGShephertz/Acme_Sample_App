@@ -90,18 +90,7 @@
 									id="phoneErr">Phone is mandatory
 								</div>
 							</div>	
-							<div class="contactForm_tr">
-        <div class="contactForm_td1">Company Name</div>
-        <div class="contactForm_tdMiddle">:</div>
-        <div class="contactForm_td2">
-         <input name="company" type="text" id="company"
-          class="Personal-input" maxlength="50" placeholder="Enter Company Name "/>
-        </div>
-        <div class="contactForm_td2"
-         style="color: red; padding-left: 90px; display: none;"
-         id="coNameErr">Company Name is mandatory
-        </div>
-       </div>
+						
 	<!------------------------------------Put New FormField Here--------------------------------->						
 							</fieldset>
 						<fieldset>
